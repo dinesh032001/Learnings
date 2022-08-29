@@ -1,0 +1,3 @@
+Hello World! 
+Welcome to ISM.  Since , Random access memory (RAM) is volatile which loses data when computer is turned off,.For future use of data its need to be stored 
+in Secondary memory.For future use of data its need to be stored in Secondary memory.

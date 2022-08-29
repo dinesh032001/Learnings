@@ -1,0 +1,132 @@
+Python 3.9.6 (tags/v3.9.6:db3ff76, Jun 28 2021, 15:26:21) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> help
+Type help() for interactive help, or help(object) for help about object.
+>>> a='python lab'
+>>> a
+'python lab'
+>>> int('246')
+246
+>>> type
+<class 'type'>
+>>> type int
+SyntaxError: invalid syntax
+>>> type (int)
+<class 'type'>
+>>> b=20
+>>> b=int
+>>> type(b)
+<class 'type'>
+>>> type('b')
+<class 'str'>
+>>> print(type(b))
+<class 'type'>
+>>> print(type('b'))
+<class 'str'>
+>>> 
+============================================================= RESTART: C:/Users/janan/Desktop/14-07-22.py =============================================================
+30
+>>> 
+============================================================= RESTART: C:/Users/janan/Desktop/14-07-22.py =============================================================
+30
+Hello World!
+>>> 
+============================================================= RESTART: C:/Users/janan/Desktop/14-07-22.py =============================================================
+30
+Hello World!
+>>> 
+============================================================= RESTART: C:/Users/janan/Desktop/14-07-22.py =============================================================
+30
+Hello World!
+Thank you
+
+end
+This is Python
+>>> 
+============================================================= RESTART: C:/Users/janan/Desktop/14-07-22.py =============================================================
+30
+Hello World!
+Thank you
+
+end
+This is Python
+Enter Your Number:1234567890
+Entered Number is: 1234567890
+<class 'str'>
+>>> 3+4
+Entered Number is: 3+4
+<class 'str'>
+>>> 
+============================================================================ RESTART: Shell ===========================================================================
+>>> 3+4
+7
+>>> 
+============================================================= RESTART: C:/Users/janan/Desktop/14-07-22.py =============================================================
+30
+Hello World!
+Thank you
+
+end
+This is Python
+Enter Your Number:
+============================================================= RESTART: C:/Users/janan/Desktop/14-07-22.py =============================================================
+30
+Hello World!
+Thank you
+
+end
+This is Python
+Enter Your Number:
+============================================================= RESTART: C:/Users/janan/Desktop/14-07-22.py =============================================================
+30
+Hello World!
+Thank you
+
+end
+This is Python
+Enter Your Number:
+============================================================================ RESTART: Shell ===========================================================================
+>>> 
+30
+Hello World!
+Thank you
+
+end
+This is Python
+Enter Your Number:
+============================================================= RESTART: C:/Users/janan/Desktop/14-07-22.py =============================================================
+30
+Hello World!
+Thank you
+
+end
+This is Python
+Enter Your Number:1234567890
+Entered Number is: 1234567890
+<class 'str'>
+Enter Your Name:python
+Entered Name is: python
+<class 'str'>
+>>> 
+============================================================= RESTART: C:/Users/janan/Desktop/14-07-22.py =============================================================
+Enter Your First Number:07
+Enter Your Second Number:18
+type of x is= <class 'str'>
+type of y is= <class 'str'>
+sum is= 0718
+>>> 
+============================================================= RESTART: C:/Users/janan/Desktop/14-07-22.py =============================================================
+Enter Your First Number:45
+Enter Your Second Number:48
+value of x= 45
+value of y= 48
+type of x= <class 'str'>
+type of y= <class 'str'>
+conerting to int type
+After converting,values are:
+value of x= 45
+value of y= 48
+type of x= <class 'int'>
+type of y= <class 'int'>
+sum is= 93
+>>> 

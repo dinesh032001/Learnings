@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JS Break Loop</title>
+</head>
+<body>
+    <h1>JAVASCRIPT Loop</h1>
+    <h2>Break</h2>
+    <p id="demo"></p>
+    <script>
+        let value="";
+        let i;
+        for(i=55;i<=60;i++)
+        {
+            if(i==60)
+            {
+                break;
+            }
+            value+="The Number is :"+i+"<br>";
+        }
+        document.getElementById("demo").innerHTML=value;
+    </script>
+</body>
+</html>

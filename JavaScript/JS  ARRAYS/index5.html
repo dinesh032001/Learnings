@@ -1,0 +1,22 @@
+<!--Looping Array Elements-->
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Javascript Array</title>
+    </head>
+<body>
+    <h1>Javascript Array</h1>
+    <p id="demo"> </p>
+</body>
+   <script>
+     let i;
+     const frontend_language=["HTML","CSS","Javascript"];
+     let text="<ul>";
+        for(i=0;i<frontend_language.length;i++)
+        {
+            text+="<li>"+frontend_language[i]+"</li>"
+        }
+        text+="</ul>";
+        document.getElementById("demo").innerHTML=text;
+</script>
+</html>

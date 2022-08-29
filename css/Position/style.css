@@ -1,0 +1,26 @@
+.main{
+    border: 5px solid gold;
+    width: 500px;
+    min-height: 500px;
+    font-weight: bold;
+}
+
+.box{
+    width: 200px;
+    height: 200px;
+    color: blue;
+    padding: 20px;
+    font-weight: bold;
+}
+
+.box1{
+    background-color: palevioletred;
+}
+
+.box2{
+    background-color: brown;
+}
+
+.box3{
+    background-color: darkblue;
+}

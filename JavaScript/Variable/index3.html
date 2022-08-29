@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Block Scope</title>
+</head>
+<body>
+    <h1>Using Block Scope</h1>
+    <p id="demo"></p>
+    <p id="demo1"></p>
+    <p id="demo2"></p>
+    <script>
+        let a;
+        a=10;
+        let b;
+        b=20;
+        {
+            let a=20;
+            let b=40;
+            let c= a + b;
+            document.getElementById("demo1").innerHTML="Value 1 is: "+c;
+        }
+        {
+
+            let a=1;
+            let b=2;
+            let c= a-b;
+            document.getElementById("demo2").innerHTML="Value 2 is: "+c;
+        }
+        let c = a + b;
+        document.getElementById("demo").innerHTML="The Value of c is:" +c;
+    </script>
+</body>
+</html>

@@ -1,0 +1,13 @@
+.flex-container{     
+        display: flex;
+        background-color: chocolate;
+        flex-direction: row;
+        align-items: flex-end;
+    }
+    .flex-container>div{
+        background-color: rgb(242, 242, 250);
+        padding: 20px;
+        margin: 10px;
+        font-size: 30px;
+        text-align: center;
+    }

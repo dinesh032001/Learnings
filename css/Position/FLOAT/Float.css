@@ -1,0 +1,44 @@
+.float{
+    padding: 20px 10px;
+    background-color: brown;
+    color: aquamarine;
+}
+.float > img{
+    float: right;
+    background-color: yellow;
+    padding: 15px 0px ;
+    margin-left: 20px;
+}
+.float-example{
+    text-align: center;
+    padding: 20px 0;
+    width: 100px;
+    color: aquamarine;
+}
+.iphone{
+    float: left;
+    background-color: blueviolet;
+}
+.oneplus{
+    float: right;
+    background-color: yellow;
+}
+.samsung{
+    float: left;
+    background-color: brown;
+}
+.vivo{
+    float: right;
+    background-color: lightslategray;
+}
+.realme{
+    float: left;
+    background-color: green;
+}
+.poco{
+    float: right;
+    background-color: gold;
+}
+.clearboth{
+    clear: both;
+}
